@@ -1,0 +1,20 @@
+{
+  "name": "gabio-client",
+  "version": "1.0.0",
+  "description": "Gabio Bank — Cliente web GBTP (Redes de Computadores)",
+  "scripts": {
+    "start": "parcel index.html",
+    "dev": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.16.4",
+    "typescript": "^6.0.3"
+  },
+  "devDependencies": {
+    "@types/node": "^25.8.0"
+  }
+}
