@@ -19,7 +19,7 @@ export class BankService {
     }
 
     this.conectado = false;
-    this.socket = new WebSocket("ws://localhost:3000");
+    this.socket = new WebSocket("ws://localhost:7001");
 
     this.socket.onopen = () => {
       this.conectado = true;
