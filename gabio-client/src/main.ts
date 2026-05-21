@@ -155,7 +155,7 @@ function enviarOuAvisar(
   const enviado = servicoBanco.enviar(operacao, id, valor, destino);
   if (!enviado) {
     mostrarToast(
-      "Sem conexão com o servidor. Inicie o gabio-server (porta 3000).",
+      "Sem conexão com o servidor. Inicie o gabio-server (porta 7001).",
       "error"
     );
   }
