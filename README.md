@@ -94,7 +94,7 @@ Após o login o usuário pode:
 A comunicação é realizada utilizando WebSocket.
 
 ```txt
-ws://localhost:3000
+ws://localhost:7001
 ```
 
 O frontend envia mensagens no padrão GBTP e recebe respostas do servidor.
