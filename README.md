@@ -1,4 +1,4 @@
-# 💳 Gabio Bank — Cliente Web GBTP
+#  Gabio Bank — Cliente Web GBTP
 
 Projeto desenvolvido para a disciplina de Redes de Computadores com foco na implementação de um cliente web utilizando o protocolo de aplicação GBTP (Gabio Bank Transaction Protocol).
 
@@ -261,7 +261,7 @@ http://localhost:1234
 O backend deve estar rodando em:
 
 ```txt
-ws://localhost:3000
+ws://localhost:7001
 ```
 
 Sem o servidor ativo:
@@ -298,18 +298,17 @@ O frontend também possui:
 
 #  Grupo
 
-| Nome | Responsabilidade |
+| Nome |
 |---|---|
-| Geovany de Oliveira Silva Batista |
-|  |
-|  | 
+| Geovany|
+| Jose gabriel |
+| Afonso| 
 
 ---
 
 #  Disciplina
 
 Redes de Computadores  
-Bacharelado em Sistemas de Informação
 
 ---
 
